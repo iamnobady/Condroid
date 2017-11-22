@@ -1,0 +1,2992 @@
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 6259
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 117.136.64.80
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 57562
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511083501.448
+    [REQUEST_TIME] => 1511083501
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_16_55_27.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpfqPyIO
+            [error] => 0
+            [size] => 6119
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 4063
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 117.136.64.80
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 57565
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511083501.999
+    [REQUEST_TIME] => 1511083501
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_18_44_05.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpDDtBdQ
+            [error] => 0
+            [size] => 3923
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 6210
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 117.136.64.80
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 57568
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511083502.579
+    [REQUEST_TIME] => 1511083502
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_18_45_10.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpeyERPR
+            [error] => 0
+            [size] => 6070
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 5610
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 117.136.64.80
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 57571
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511083503.143
+    [REQUEST_TIME] => 1511083503
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_20_53_13.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpM22GkT
+            [error] => 0
+            [size] => 5470
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 5226
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 117.136.64.80
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 57574
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511083503.699
+    [REQUEST_TIME] => 1511083503
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_21_03_34.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpvp0wQU
+            [error] => 0
+            [size] => 5086
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 6259
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 117.136.64.80
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 57579
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511083508.629
+    [REQUEST_TIME] => 1511083508
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_16_55_27.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpOCPF1E
+            [error] => 0
+            [size] => 6119
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 4063
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 117.136.64.80
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 57582
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511083509.159
+    [REQUEST_TIME] => 1511083509
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_18_44_05.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpoPZkzJ
+            [error] => 0
+            [size] => 3923
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 6210
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 117.136.64.80
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 57585
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511083509.659
+    [REQUEST_TIME] => 1511083509
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_18_45_10.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpwJVh5a
+            [error] => 0
+            [size] => 6070
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 5610
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 117.136.64.80
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 57588
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511083510.18
+    [REQUEST_TIME] => 1511083510
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_20_53_13.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpul1luc
+            [error] => 0
+            [size] => 5470
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 5226
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 117.136.64.80
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 57591
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511083510.778
+    [REQUEST_TIME] => 1511083510
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_21_03_34.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpgVRPtM
+            [error] => 0
+            [size] => 5086
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 6259
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 117.136.64.80
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 57596
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511083515.94
+    [REQUEST_TIME] => 1511083515
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_16_55_27.jpg
+            [type] => 
+            [tmp_name] => /tmp/php2DArMj
+            [error] => 0
+            [size] => 6119
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 4063
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 117.136.64.80
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 57599
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511083516.533
+    [REQUEST_TIME] => 1511083516
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_18_44_05.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpoSgFMt
+            [error] => 0
+            [size] => 3923
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 6210
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 117.136.64.80
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 58718
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511083517.112
+    [REQUEST_TIME] => 1511083517
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_18_45_10.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpaFMdoo
+            [error] => 0
+            [size] => 6070
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 5610
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 117.136.64.80
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 58721
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511083517.7
+    [REQUEST_TIME] => 1511083517
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_20_53_13.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpJ3YlyS
+            [error] => 0
+            [size] => 5470
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 5226
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 117.136.64.80
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 58724
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511083518.279
+    [REQUEST_TIME] => 1511083518
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_21_03_34.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpyhdgN3
+            [error] => 0
+            [size] => 5086
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 6259
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 117.136.64.80
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 58828
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511083902.205
+    [REQUEST_TIME] => 1511083902
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_16_55_27.jpg
+            [type] => 
+            [tmp_name] => /tmp/php0lBeSP
+            [error] => 0
+            [size] => 6119
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 4063
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 117.136.64.80
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 58831
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511083902.764
+    [REQUEST_TIME] => 1511083902
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_18_44_05.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpKTdhk0
+            [error] => 0
+            [size] => 3923
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 6210
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 117.136.64.80
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 58834
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511083903.311
+    [REQUEST_TIME] => 1511083903
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_18_45_10.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpmuAK63
+            [error] => 0
+            [size] => 6070
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 5610
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 117.136.64.80
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 58837
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511083903.863
+    [REQUEST_TIME] => 1511083903
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_20_53_13.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpki9HD0
+            [error] => 0
+            [size] => 5470
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 5226
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 117.136.64.80
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 59956
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511083904.428
+    [REQUEST_TIME] => 1511083904
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_21_03_34.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpnRi6Cc
+            [error] => 0
+            [size] => 5086
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 6259
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 125.71.229.176
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 17892
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511099073.169
+    [REQUEST_TIME] => 1511099073
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_16_55_27.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpYkeRyD
+            [error] => 0
+            [size] => 6119
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 4063
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 125.71.229.176
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 48625
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511099073.57
+    [REQUEST_TIME] => 1511099073
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_18_44_05.jpg
+            [type] => 
+            [tmp_name] => /tmp/php4q9jTs
+            [error] => 0
+            [size] => 3923
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 6210
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 125.71.229.176
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 41208
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511099074.027
+    [REQUEST_TIME] => 1511099074
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_18_45_10.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpnpggCl
+            [error] => 0
+            [size] => 6070
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 5610
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 125.71.229.176
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 33671
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511099074.44
+    [REQUEST_TIME] => 1511099074
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_20_53_13.jpg
+            [type] => 
+            [tmp_name] => /tmp/php1FNy6B
+            [error] => 0
+            [size] => 5470
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 5226
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 125.71.229.176
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 38772
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511099074.871
+    [REQUEST_TIME] => 1511099074
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_21_03_34.jpg
+            [type] => 
+            [tmp_name] => /tmp/php4R6KmX
+            [error] => 0
+            [size] => 5086
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 5690
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 125.71.229.176
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 39015
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511099075.274
+    [REQUEST_TIME] => 1511099075
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_11_19_21_44_12.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpGxBKn7
+            [error] => 0
+            [size] => 5550
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 6259
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 125.71.229.176
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 1071
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511100526.007
+    [REQUEST_TIME] => 1511100526
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_16_55_27.jpg
+            [type] => 
+            [tmp_name] => /tmp/php5oTKNl
+            [error] => 0
+            [size] => 6119
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 4063
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 125.71.229.176
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 33475
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511100526.358
+    [REQUEST_TIME] => 1511100526
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_18_44_05.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpGCGoE0
+            [error] => 0
+            [size] => 3923
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 6210
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 125.71.229.176
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 56069
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511100526.762
+    [REQUEST_TIME] => 1511100526
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_18_45_10.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpA5kDLb
+            [error] => 0
+            [size] => 6070
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 5610
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 125.71.229.176
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 43629
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511100527.199
+    [REQUEST_TIME] => 1511100527
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_20_53_13.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpxZUTsy
+            [error] => 0
+            [size] => 5470
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 5226
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 125.71.229.176
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 53915
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511100527.663
+    [REQUEST_TIME] => 1511100527
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_21_03_34.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpO4nMEs
+            [error] => 0
+            [size] => 5086
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 5690
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 125.71.229.176
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 57465
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511100528.141
+    [REQUEST_TIME] => 1511100528
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_11_19_21_44_12.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpUTZSKt
+            [error] => 0
+            [size] => 5550
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 6259
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 125.71.229.176
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 63375
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511100871.235
+    [REQUEST_TIME] => 1511100871
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_16_55_27.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpoLDWVn
+            [error] => 0
+            [size] => 6119
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 4063
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 125.71.229.176
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 46845
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511100871.64
+    [REQUEST_TIME] => 1511100871
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_18_44_05.jpg
+            [type] => 
+            [tmp_name] => /tmp/php6cI62w
+            [error] => 0
+            [size] => 3923
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 6210
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 125.71.229.176
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 35044
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511100872.063
+    [REQUEST_TIME] => 1511100872
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_18_45_10.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpmQ6v4e
+            [error] => 0
+            [size] => 6070
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 5610
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 125.71.229.176
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 38753
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511100872.546
+    [REQUEST_TIME] => 1511100872
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_20_53_13.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpA2L4PR
+            [error] => 0
+            [size] => 5470
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 5226
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 125.71.229.176
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 32856
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511100872.975
+    [REQUEST_TIME] => 1511100872
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_21_03_34.jpg
+            [type] => 
+            [tmp_name] => /tmp/php7XFUEK
+            [error] => 0
+            [size] => 5086
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 5690
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 125.71.229.176
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 50903
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511100873.433
+    [REQUEST_TIME] => 1511100873
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_11_19_21_44_12.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpSFg2Mi
+            [error] => 0
+            [size] => 5550
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 6259
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 125.71.229.176
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 45632
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511100878.501
+    [REQUEST_TIME] => 1511100878
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_16_55_27.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpi3AwBg
+            [error] => 0
+            [size] => 6119
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 4063
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 125.71.229.176
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 48318
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511100878.946
+    [REQUEST_TIME] => 1511100878
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_18_44_05.jpg
+            [type] => 
+            [tmp_name] => /tmp/php6QY2D5
+            [error] => 0
+            [size] => 3923
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 6210
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 125.71.229.176
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 15442
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511100879.453
+    [REQUEST_TIME] => 1511100879
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_18_45_10.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpkXvAkR
+            [error] => 0
+            [size] => 6070
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 5610
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 125.71.229.176
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 49959
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511100879.908
+    [REQUEST_TIME] => 1511100879
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_20_53_13.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpkZnAfT
+            [error] => 0
+            [size] => 5470
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 5226
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 125.71.229.176
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 48193
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511100880.317
+    [REQUEST_TIME] => 1511100880
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_08_29_21_03_34.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpaWnJmU
+            [error] => 0
+            [size] => 5086
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------
+Error: 
+
+-----------------------------------------
+Server: 
+Array
+(
+    [HTTP_CONNECTION] => Keep-Alive
+    [CONTENT_TYPE] => multipart/form-data;boundary=*****
+    [HTTP_USER_AGENT] => Dalvik/2.1.0 (Linux; U; Android 6.0.1; MI 4LTE MIUI/6.9.22)
+    [HTTP_HOST] => 101.201.67.165:8080
+    [HTTP_ACCEPT_ENCODING] => gzip
+    [CONTENT_LENGTH] => 5690
+    [PATH] => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+    [SERVER_SIGNATURE] => <address>Apache/2.4.7 (Ubuntu) Server at 101.201.67.165 Port 8080</address>
+
+    [SERVER_SOFTWARE] => Apache/2.4.7 (Ubuntu)
+    [SERVER_NAME] => 101.201.67.165
+    [SERVER_ADDR] => 172.17.0.2
+    [SERVER_PORT] => 8080
+    [REMOTE_ADDR] => 125.71.229.176
+    [DOCUMENT_ROOT] => /var/www/dendroid
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => /var/www/dendroid
+    [SERVER_ADMIN] => webmaster@localhost
+    [SCRIPT_FILENAME] => /var/www/dendroid/new-upload.php
+    [REMOTE_PORT] => 55248
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => UID=a258f1ee3430851d&Password=password
+    [REQUEST_URI] => /new-upload.php?UID=a258f1ee3430851d&Password=password
+    [SCRIPT_NAME] => /new-upload.php
+    [PHP_SELF] => /new-upload.php
+    [REQUEST_TIME_FLOAT] => 1511100880.737
+    [REQUEST_TIME] => 1511100880
+)
+
+-----------------------------------------
+Files: 
+Array
+(
+    [file] => Array
+        (
+            [name] => 2017_11_19_21_44_12.jpg
+            [type] => 
+            [tmp_name] => /tmp/phpy11LO5
+            [error] => 0
+            [size] => 5550
+        )
+
+)
+
+-----------------------------------------
+Get: 
+Array
+(
+    [UID] => a258f1ee3430851d
+    [Password] => password
+)
+
+-----------------------------------------
+Post: 
+Array
+(
+)
+
+-----------------------------------------

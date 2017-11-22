@@ -1,0 +1,15 @@
+<?php
+$dbhost='127.0.0.1';
+$dbname='dendroid';
+$dbuser='root';
+$dbpass='conan';
+$username='admin';
+$password='7b91796cb6b9e9aa8313be979da041fb291b1a4846fad2a37d581aa20d3e065c6af623b215fa641896a6f44df9100c8805dee5d9e3921b62b6e663b599f34593';
+$postboxtextsize=11;
+$devicestablerefreshspeed=10000;
+$filestablerefreshspeed=10000;
+$messageboxrefreshspeed=10000;
+$offlineminutes=1;
+$timezonesetting='Asia/Hong_Kong';
+$autoscrolltextbox=true;
+?>
