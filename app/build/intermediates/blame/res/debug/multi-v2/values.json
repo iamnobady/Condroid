@@ -1,0 +1,86 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\ASUS\\StudioProjects\\Dendroid Apk1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ASUS\\StudioProjects\\Dendroid Apk1\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "17,66,117",
+                        "endColumns": "48,50,58",
+                        "endOffsets": "61,112,171"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,104,155",
+                        "endColumns": "48,50,58",
+                        "endOffsets": "99,150,209"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ASUS\\StudioProjects\\Dendroid Apk1\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "17,76",
+                        "endLines": "2,10",
+                        "endColumns": "58,12",
+                        "endOffsets": "71,523"
+                    },
+                    "to": {
+                        "startLines": "5,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "214,272",
+                        "endLines": "5,13",
+                        "endColumns": "57,12",
+                        "endOffsets": "267,719"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\ASUS\\StudioProjects\\Condroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ASUS\\StudioProjects\\Condroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "17,66,117",
+                        "endColumns": "48,50,58",
+                        "endOffsets": "61,112,171"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,104,155",
+                        "endColumns": "48,50,58",
+                        "endOffsets": "99,150,209"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ASUS\\StudioProjects\\Condroid\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "17,76",
+                        "endLines": "2,10",
+                        "endColumns": "58,12",
+                        "endOffsets": "71,523"
+                    },
+                    "to": {
+                        "startLines": "5,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "214,272",
+                        "endLines": "5,13",
+                        "endColumns": "57,12",
+                        "endOffsets": "267,719"
+                    }
+                }
+            ]
+        }
+    ]
+}

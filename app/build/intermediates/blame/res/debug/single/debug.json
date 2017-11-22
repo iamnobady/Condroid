@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\StudioProjects\\Dendroid Apk1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\StudioProjects\\Dendroid Apk1\\app\\src\\main\\res\\drawable-xhdpi\\launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\StudioProjects\\Condroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\StudioProjects\\Condroid\\app\\src\\main\\res\\drawable-xhdpi\\launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\StudioProjects\\Dendroid Apk1\\app\\build\\intermediates\\res\\merged\\debug\\menu_connect_layout.xml.flat",
+        "source": "C:\\Users\\ASUS\\StudioProjects\\Dendroid Apk1\\app\\src\\main\\res\\menu\\connect_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\StudioProjects\\Condroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_cameraview.xml.flat",
+        "source": "C:\\Users\\ASUS\\StudioProjects\\Condroid\\app\\src\\main\\res\\layout\\cameraview.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\StudioProjects\\Condroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\StudioProjects\\Condroid\\app\\src\\main\\res\\drawable-hdpi\\launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\StudioProjects\\Condroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_videoview.xml.flat",
+        "source": "C:\\Users\\ASUS\\StudioProjects\\Condroid\\app\\src\\main\\res\\layout\\videoview.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\StudioProjects\\Dendroid Apk1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\StudioProjects\\Dendroid Apk1\\app\\src\\main\\res\\drawable-hdpi\\launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\StudioProjects\\Dendroid Apk1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\StudioProjects\\Dendroid Apk1\\app\\src\\main\\res\\drawable-mdpi\\launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\StudioProjects\\Condroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\StudioProjects\\Condroid\\app\\src\\main\\res\\drawable-mdpi\\launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\StudioProjects\\Dendroid Apk1\\app\\build\\intermediates\\res\\merged\\debug\\layout_videoview.xml.flat",
+        "source": "C:\\Users\\ASUS\\StudioProjects\\Dendroid Apk1\\app\\src\\main\\res\\layout\\videoview.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\StudioProjects\\Condroid\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\ASUS\\StudioProjects\\Condroid\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\StudioProjects\\Dendroid Apk1\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\ASUS\\StudioProjects\\Dendroid Apk1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\StudioProjects\\Condroid\\app\\build\\intermediates\\res\\merged\\debug\\menu_connect_layout.xml.flat",
+        "source": "C:\\Users\\ASUS\\StudioProjects\\Condroid\\app\\src\\main\\res\\menu\\connect_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\StudioProjects\\Dendroid Apk1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\StudioProjects\\Dendroid Apk1\\app\\src\\main\\res\\drawable-ldpi\\launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\StudioProjects\\Dendroid Apk1\\app\\build\\intermediates\\res\\merged\\debug\\layout_cameraview.xml.flat",
+        "source": "C:\\Users\\ASUS\\StudioProjects\\Dendroid Apk1\\app\\src\\main\\res\\layout\\cameraview.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\StudioProjects\\Condroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\StudioProjects\\Condroid\\app\\src\\main\\res\\drawable-ldpi\\launcher.png"
+    }
+]

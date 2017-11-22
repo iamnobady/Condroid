@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Wed Nov 22 16:09:02 CST 2017
+2.base=C\:\\Users\\ASUS\\StudioProjects\\Condroid\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+5.file=C\:\\Users\\ASUS\\StudioProjects\\Condroid\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\cameraview.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\ASUS\\StudioProjects\\Condroid\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+6.file=C\:\\Users\\ASUS\\StudioProjects\\Condroid\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\launcher.png
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\ASUS\\StudioProjects\\Condroid\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+7.file=C\:\\Users\\ASUS\\StudioProjects\\Condroid\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\resources.arsc
+7.set=ANDROID_RESOURCE
+count=8
+0.file=C\:\\Users\\ASUS\\StudioProjects\\Condroid\\app\\build\\intermediates\\assets\\debug\\android-support-v4.jar
+5.base=C\:\\Users\\ASUS\\StudioProjects\\Condroid\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\ASUS\\StudioProjects\\Condroid\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+1.file=C\:\\Users\\ASUS\\StudioProjects\\Condroid\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\main.xml
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\ASUS\\StudioProjects\\Condroid\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+2.file=C\:\\Users\\ASUS\\StudioProjects\\Condroid\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\menu\\connect_layout.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\ASUS\\StudioProjects\\Condroid\\app\\build\\intermediates\\assets\\debug
+3.file=C\:\\Users\\ASUS\\StudioProjects\\Condroid\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\videoview.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\ASUS\\StudioProjects\\Condroid\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
+4.file=C\:\\Users\\ASUS\\StudioProjects\\Condroid\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_\\AndroidManifest.xml
+0.set=ASSET

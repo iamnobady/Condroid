@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\ASUS\StudioProjects\Condroid\app\src\main\assets"><file name="android-support-v4.jar" path="C:\Users\ASUS\StudioProjects\Condroid\app\src\main\assets\android-support-v4.jar"/></source><source path="C:\Users\ASUS\StudioProjects\Condroid\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\ASUS\StudioProjects\Condroid\app\src\debug\assets"/></dataSet></merger>
